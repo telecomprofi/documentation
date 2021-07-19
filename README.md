@@ -53,7 +53,7 @@ github shows below text as bash shell script
 tail -f /var/log/messages
 ```
 
-```bash
+```shell
 if [ ! -d "$directory" ] ; then echo “Specified file $1 is not a directory.” error fi
 ```
 
