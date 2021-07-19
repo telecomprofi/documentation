@@ -49,7 +49,8 @@ Same with backtics
 ~~~some text with tildas~~~ - should look like crossed-over
 
 github shows below text as bash shell script
-```bash
+```
+bash
 tail -f /var/log/messages
 ```
 
