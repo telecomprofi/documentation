@@ -49,13 +49,17 @@ Same with backtics
 ~~~some text with tildas~~~ - should look like crossed-over
 
 github shows below text as bash shell script
-```
-bash
+```bash
 tail -f /var/log/messages
 ```
 
 ```shell
 if [ ! -d "$directory" ] ; then echo “Specified file $1 is not a directory.” error fi
+```
+
+```console
+foo@bar:~$ whoami
+foo
 ```
 
 
