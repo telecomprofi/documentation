@@ -37,9 +37,12 @@ Images how to add here
  * Что такое атомарная операция?
  * что такое `localhost` и почему `ping localhost` может не работать
                ^^^^^^^ single backtics pair
-```$bash code goes here``` with backtics
+```
+$bash code goes here
+``` 
+^^^with backtics
 
-    $bash code goes here
+```    $bash code goes here
     for in range(10):
       print(i)
 ```
