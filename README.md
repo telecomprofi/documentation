@@ -46,9 +46,16 @@ $bash code goes here
     for in range(10):
       print(i)
 ```
+
+
+~~~
+crossed over text
+~~~
+
+
 Same with backtics
 
-~~~some text with tildas~~~ - should look like crossed-over
+
 
 github shows below text as bash shell script
 ```bash
