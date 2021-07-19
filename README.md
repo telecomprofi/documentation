@@ -44,7 +44,6 @@ Images how to add here
       print(i)
 ```
 Same with backtics
-```
 
 ~~~some text with tildas~~~ - should look like crossed-over
 
